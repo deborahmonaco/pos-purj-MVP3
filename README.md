@@ -6,6 +6,33 @@ O foco acadêmico deste MVP é demonstrar competências em:
 - Condução ética de entrevistas semiestruturadas.
 - Síntese de evidências e modelagem de personas/cenários de problema.
 
+## Resumo do documento
+O documento é um Projeto de Análise de Pesquisa Qualitativa e Quantitativa focado na experiência do paciente de planos de saúde na gestão do ciclo de continuidade do cuidado (agendamento, exames, retorno). O objetivo é identificar as fricções que levam à exaustão e, consequentemente, ao abandono do tratamento.
+
+**Pontos-Chave:**
+- Problema Central: O paciente atua como "gerente de logística" de sua própria jornada clínica, assumindo uma carga cognitiva excessiva devido à falta de suporte e à fragmentação do sistema (múltiplos pontos de contato, canais e documentos).
+- Público-alvo: Pacientes adultos, sem dependentes, com jornada de trabalho de 40h/semana, que realizam check-up anual e são responsáveis por sua própria saúde.
+- Metodologia: Pesquisa qualitativa com entrevistas de profundidade e mapeamento de jornada, buscando entender a experiência vivida (Fenomenologia).
+
+**Achados da Pesquisa (Síntese das Evidências):**
+- Rejeição ao Telefone ("Telefobia"): Há uma rejeição unânime ao agendamento por voz, priorizando canais assíncronos como WhatsApp.
+- Preferência pelo Digital: O papel físico (receitas, guias) é visto como um "fardo" que gera perda de documentos e desorganização, com forte preferência pelo digital (e.g., Memed).
+- Fricção com Atendimento Humano: O Entrevistado 1 (E1) prefere bots rápidos, rejeitando atendentes humanos que demoram a responder e encerram a sessão por inatividade.
+- Falta de Transparência e Segurança: A Entrevistada 2 (E2) recorre ao telefone para validar a nomenclatura de exames, com medo de agendar o procedimento errado no digital.
+- Apagão de Informações e Uso de ChatGPT: E1 usou o ChatGPT para descobrir o preparo de um exame complexo devido à falta de orientação clara da clínica.
+- "Surpresa no Balcão": O sistema digital não barra agendamentos não cobertos pelo convênio, e E2 só descobriu a não cobertura após deslocamento e jejum.
+- Fragmentação de Histórico: A Entrevistada 3 (E3) se sente exausta por ter que recontar toda sua história clínica a cada novo especialista, pois os sistemas não se comunicam.
+
+**Personas Fundamentadas:**
+- Renato, O Pragmático Resolutivo (Persona 1): Valoriza autonomia, velocidade e resolutividade instantânea. Sua frustração é a interdependência de sistemas lentos e a exigência de contato por voz (telefone).
+- Jéssica, Esgotamento por Falta de Transparência (Persona 2): Busca previsibilidade, garantia de cobertura e confiança nas informações. Seu esgotamento vem da ambiguidade na nomenclatura de exames e da fragmentação do histórico (ser obrigada a ser a "ponte de dados" entre médicos).
+
+**Cenários de Problema:**
+- Ilustram as dores na prática, como a "Sessão Expirada" no WhatsApp, o "Muro de Voz" que leva ao abandono de médicos mais qualificados, a "Surpresa no Balcão" e o "Eco do Prontuário Vazio".
+
+**Limitações do Estudo:**
+- O principal viés foi a normalização do comportamento exaustivo pelos participantes, e a necessidade de usar checklists para garantir a cobertura de todos os tópicos críticos nas entrevistas.
+
 ---
 
 ## 📁 Estrutura do Projeto
