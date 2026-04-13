@@ -1,6 +1,12 @@
-Avaliação de Pesquisa Qualitativa e Quantitativa
+## 🎯 Objetivo do Projeto
+Este repositório contém os artefatos de pesquisa e análise para o domínio de **Saúde Suplementar**. O estudo foca no fenômeno da **"Carga Mental Transferida"**, investigando como falhas na orquestração de serviços de saúde (agendamentos, exames e retornos) geram esforço cognitivo excessivo e "trabalho invisível" para o paciente.
 
-Este repositório contém os artefatos, relatórios e evidências da pesquisa realizada como parte da disciplina de **Interação Humano-Computador (IHC)**. O objetivo deste estudo foi investigar o comportamento de pessoas que são atores de jornadas de agendamento de consulta/exames no segmento de saúde utilizando abordagens mistas para coleta e análise de dados.
+O foco acadêmico deste MVP é demonstrar competências em:
+- Planejamento de pesquisa qualitativa.
+- Condução ética de entrevistas semiestruturadas.
+- Síntese de evidências e modelagem de personas/cenários de problema.
+
+---
 
 ## 📁 Estrutura do Projeto
 
@@ -11,26 +17,45 @@ Este repositório contém os artefatos, relatórios e evidências da pesquisa re
     * Gabriela-02: Entrevistado 02
     * Fernanda-03: Entrevistado 03
 * Transcrições.pdf: Arquivos de texto com a decupagem das falas dos entrevistados.
-* TCLE_Assinados.zip: Termos de Consentimento Livre e Esclarecido de todos os participantes.
+* TCLE_Assinados: Termos de Consentimento Livre e Esclarecido de todos os participantes.
 
 ---
 
-## 🛠 Metodologia
+## 🛠️ Metodologia Aplicada
 
-A pesquisa foi estruturada em duas frentes principais para garantir a triangulação dos dados:
+### 1. Desk Research & Diagnóstico de UX
+Levantamento prévio de dores comuns em sistemas de saúde (ex: falhas de comunicação proativa, desaparecimento de dados e loops de ineficiência no suporte).
 
-### 1. Pesquisa Qualitativa
-* **Técnica:** Entrevistas semiestruturadas.
-* **Amostra:** 3 usuários finais + 1 teste piloto.
-* **Objetivo:** Compreender dores, motivações e o contexto de uso do sistema.
+### 2. Entrevistas Semiestruturadas
+Condução de entrevistas com foco em 4 blocos investigativos:
+- **Abertura:** Estilo de vida e autonomia.
+- **Agendamento:** Carga de vigília e frustração com canais digitais.
+- **Realização:** Gestão de silos e perda de documentos físicos/digitais.
+- **Seguimento:** Pontos de desistência, exaustão e abandono do tratamento.
+
+### 3. Entrevista-Piloto
+Realização de entrevista teste que permitiu o ajuste do roteiro, incluindo sondas mais profundas sobre "gambiarras" do usuário e sentimentos de impotência.
 
 ---
 
-## 👤 Autor
-* Déborah Monaco Sales de Fretias
-* Pós-graduação em IHC – PUC-RJ (2026)
+## 👥 Personas e Evidências
+O estudo resultou na criação de personas fundamentadas em evidências reais (verbatims), mapeando:
+- **Objetivos:** O que o usuário busca realizar.
+- **Obstáculos:** As barreiras do sistema de saúde.
+- **Estratégias atuais:** As "gambiarras" que o usuário faz para compensar as falhas do sistema.
 
 ---
 
-### 📝 Notas de Confidencialidade
-Os arquivos de gravação e os termos assinados (TCLE) contêm dados sensíveis dos participantes e devem ser acessados apenas para fins de avaliação acadêmica, respeitando as normas éticas de pesquisa com seres humanos.
+## 📝 Requisitos de Entrega (Checklist)
+- [x] Relatório em PDF (Arial 11, Espaçamento 1.5, até 15 páginas).
+- [x] Tabela de Síntese para cada entrevistado.
+- [x] Personas com citações reais.
+- [x] Cenários de problema (sem soluções de design).
+- [x] Áudios e TCLEs anexados no GitHub.
+
+---
+
+## 🎓 Identificação
+- **Aluna:** Deborah Monaco
+- **Curso:** Especialização em Interação Humano-Computador (IHC) - PUC-RJ
+- **Docente Responsável:** Ariane Rodrigues
